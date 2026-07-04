@@ -1,0 +1,19 @@
+{
+  "summary": [
+    { "label": "Total Students", "value": 248, "change": "+12 this month" },
+    { "label": "Active Courses", "value": 18, "change": "4 departments" },
+    { "label": "Average Attendance", "value": "92%", "change": "+3% vs last week" },
+    { "label": "Pending Alerts", "value": 6, "change": "2 urgent" }
+  ],
+  "recentActivities": [
+    "Aarav Mehta submitted Data Structures assignment.",
+    "Semester attendance report was generated.",
+    "New course material added for Web Development.",
+    "Parent meeting reminder sent to final-year students."
+  ],
+  "upcoming": [
+    { "title": "Internal Assessment", "date": "Jul 08", "time": "10:00 AM" },
+    { "title": "Project Review", "date": "Jul 12", "time": "02:00 PM" },
+    { "title": "Attendance Audit", "date": "Jul 15", "time": "11:30 AM" }
+  ]
+}

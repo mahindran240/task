@@ -1,0 +1,30 @@
+[
+  {
+    "code": "CS301",
+    "title": "Data Structures",
+    "instructor": "Dr. Priya Nair",
+    "credits": 4,
+    "progress": 76
+  },
+  {
+    "code": "CS315",
+    "title": "Web Development",
+    "instructor": "Prof. Rohan Das",
+    "credits": 3,
+    "progress": 64
+  },
+  {
+    "code": "MA220",
+    "title": "Discrete Mathematics",
+    "instructor": "Dr. Leela Menon",
+    "credits": 4,
+    "progress": 82
+  },
+  {
+    "code": "CS330",
+    "title": "Database Management",
+    "instructor": "Prof. Sameer Khan",
+    "credits": 3,
+    "progress": 58
+  }
+]

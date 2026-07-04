@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "type": "Assignment",
+    "message": "Data Structures assignment is due on Jul 06.",
+    "priority": "High",
+    "time": "Today"
+  },
+  {
+    "id": 2,
+    "type": "Course",
+    "message": "New Web Development lab notes are available.",
+    "priority": "Medium",
+    "time": "Yesterday"
+  },
+  {
+    "id": 3,
+    "type": "Attendance",
+    "message": "Attendance report for June has been published.",
+    "priority": "Low",
+    "time": "Jul 02"
+  },
+  {
+    "id": 4,
+    "type": "Event",
+    "message": "Project review slots open this week.",
+    "priority": "Medium",
+    "time": "Jul 01"
+  }
+]

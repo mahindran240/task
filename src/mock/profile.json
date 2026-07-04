@@ -1,0 +1,14 @@
+{
+  "id": "STU-101",
+  "name": "Aarav Mehta",
+  "avatarInitials": "AM",
+  "program": "B.Tech Computer Science",
+  "year": "3rd Year",
+  "email": "aarav.mehta@example.edu",
+  "phone": "+91 98765 43210",
+  "advisor": "Dr. Priya Nair",
+  "gpa": "8.7",
+  "creditsCompleted": 104,
+  "skills": ["React", "Database Design", "Python", "Data Structures"],
+  "address": "Pune, Maharashtra"
+}

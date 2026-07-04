@@ -1,0 +1,6 @@
+[
+  { "course": "Data Structures", "attended": 35, "total": 38, "percentage": 92 },
+  { "course": "Web Development", "attended": 29, "total": 32, "percentage": 91 },
+  { "course": "Discrete Mathematics", "attended": 34, "total": 36, "percentage": 94 },
+  { "course": "Database Management", "attended": 27, "total": 31, "percentage": 87 }
+]
