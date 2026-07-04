@@ -1,7 +1,10 @@
 {
+  "name": "student-dashboard",
+  "private": true,
+  "version": "1.0.0",
   "scripts": {
     "dev": "vite --host 127.0.0.1",
-    "build": "vite build",
+    "build": "node node_modules/vite/bin/vite.js build",
     "preview": "vite preview --host 127.0.0.1"
   },
   "dependencies": {
